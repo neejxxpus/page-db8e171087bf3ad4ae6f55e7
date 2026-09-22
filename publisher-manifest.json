@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0ca7da1e2513e107145a1472",
+  "owner": "neejxxpus",
+  "repo": "page-db8e171087bf3ad4ae6f55e7",
+  "title": "YOYO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "db8e171087bf3ad4ae6f55e7",
+      "a": "YOYO",
+      "b": "稳定全球clash加速器",
+      "entity": "YOYO",
+      "brand": "YOYO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2a514265a7168d3b79d8b105cf1198eae8ff565f1c991baa7148c7b8f636bc4a",
+      "content": {
+        "primary_entity": "YOYO",
+        "keyword1": "YOYO",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助访客理解不同终端的接入方式与订阅周期选择。基础版、旗舰版、团队版覆盖从个人到团队的流量与设备需求，年付可节省费用，旗舰版与团队版在节点带宽与支持优先级上更高。",
+          "AI_HERO_SUBTITLE": "YOYO加速器，多设备订阅对比",
+          "AI_HERO_INTRO": "YOYO是一款面向跨境访问场景的网络加速工具，支持Clash客户端订阅配置，提供按月或按年计费的套餐选择。基础版、旗舰版与团队版分别在流量额度、在线设备数和线路质量上区分，适合个人、家庭及团队用户按需选用。",
+          "AI_VISUAL_TITLE": "YOYO订阅套餐一览",
+          "AI_HIGHLIGHT_1": "100GB至1000GB月流量",
+          "AI_HIGHLIGHT_2": "3台至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC专线与VIP高带宽节点",
+          "AI_FEATURES_TITLE": "功能与套餐要点",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度对比YOYO套餐，快速判断哪档更适合日常使用。",
+          "AI_FEATURE_TITLE_1": "套餐按流量区分",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB月度流量，按使用强度选择。",
+          "AI_FEATURE_TITLE_2": "设备数量弹性选择",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台设备同时在线，覆盖个人到小组场景。",
+          "AI_FEATURE_TITLE_3": "线路与支持分级",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线与优先工单，团队版提供VIP带宽与专属客户经理。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "在不同系统上通过Clash订阅链接完成配置，客户端选择依据设备平台与使用习惯。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_PLANS_INTRO": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850。可从流量、设备数和线路质量三方面比较。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备数量与流量需求，再按客户端文档导入订阅，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量与在线设备数，在基础版、旗舰版、团队版中选定适合的一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备平台与系统版本，对照客户端兼容说明判断订阅配置方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应Clash客户端文档导入订阅链接，完成节点分组与规则设置。",
+          "AI_FAQ_INTRO": "订阅选择、设备数量与线路差异。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_CLOSING_TEXT": "对比流量与设备需求，选择适合的YOYO套餐并完成Clash订阅配置。",
+          "AI_FAQ_TITLE": "YOYO 常见问题",
+          "AI_FAQ_QUESTION_1": "YOYO 三档套餐分别适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台设备以内、月流量 100GB 的轻度使用；旗舰版适合 5 台设备、需要流媒体和游戏加速的用户；团队版面向 20 台设备及企业路由场景。",
+          "AI_FAQ_QUESTION_2": "YOYO 支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可根据家庭或办公环境中实际终端数量选择。",
+          "AI_FAQ_QUESTION_3": "YOYO 套餐按年付有什么价格？",
+          "AI_FAQ_ANSWER_3": "基础版按年付 150 元，旗舰版按年付 350 元，团队版按年付 850 元，均相当于按月支付的一定比例折算。",
+          "AI_FAQ_QUESTION_4": "YOYO 旗舰版与团队版线路有什么区别？",
+          "AI_FAQ_ANSWER_4": "旗舰版使用 IPLC 专线并针对游戏加速优化，提供 7x24 优先工单支持；团队版使用 VIP 专属高带宽节点，并支持企业定制路由。",
+          "AI_FAQ_QUESTION_5": "如何为 YOYO 订阅选择客户端？",
+          "AI_FAQ_ANSWER_5": "先确认设备系统类型，再从对应操作系统的客户端列表中选择，参照其配置文档导入 YOYO 订阅信息即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "s45wql.cn",
+    "host": "s45wql.cn"
+  },
+  "file_hashes": {
+    "index.html": "83c1635165c682863154919089b4b23c71428a99a991b356cca1768063a16424",
+    "sitemap.xml": "7c25f49796bf57a7a1ba88638647ed289dcf9799946f024a3fcd41d059f4bab5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "35f2fdfa04a54a0efeb4633292fb593c63406eb35e10904e9462c66ba7aae8b9",
+    "robots.txt": "a845389ce79ec570734a3e5a4221aeec2ee9b7e43db1824fc772441daa9622a9",
+    "67e1edb2612cb57d4a7df7e9fe5c8be3.txt": "4e335ca879422e8e2546fa0d06432a2bedbe2aad0236cedd8c835ba8f80c9628"
+  },
+  "revision": "331309bccebcf9845dd96578d48a6b1b1c4e90b7efe0f13b4966cbfe9acd15f8"
+}
